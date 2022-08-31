@@ -1,6 +1,6 @@
 class Solution(object):
     """
-    Given a string, return the length of the longest substring without repeating characters
+    Given a string with roman digits, convert to the corresponding number using the arabic digits
     """
     @staticmethod
     def roman_to_integer(s: str) -> int:
