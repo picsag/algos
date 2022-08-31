@@ -10,4 +10,5 @@ Program 6. [String to Integer](./p6_string_to_integer.py) </br>
 Program 7. [Merge overlapping intervals](./p7_merge_intervals.py) </br>
 Program 8. [Diameter of binary tree](./p8_diameter_tree.py) </br>
 Program 9. [Sum of two numbers stored in linked lists](./p9_add_two_numbers.py)</br>
-Program 10. </br>
+Program 10. [Binary search in sorted array](./p10_binary_search.py)</br>
+Program 11. [Binary search in rotated array](./p11_search_sorted_array.py)</br>
