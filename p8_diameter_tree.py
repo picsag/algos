@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution(object):
     """
     Given a binary tree, you need to compute the length of the diameter of the tree.
